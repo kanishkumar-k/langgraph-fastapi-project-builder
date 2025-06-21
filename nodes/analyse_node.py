@@ -4,7 +4,7 @@ import json
 import os
 import base64
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "API_KEY"
 
 client = Groq(api_key=GROQ_API_KEY)
 
